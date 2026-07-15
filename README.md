@@ -1,2 +1,3 @@
 # swayam-demo
-this is my first github repository
+This is my first github repository
+Auhtor- Swayam Jain
